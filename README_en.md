@@ -69,8 +69,8 @@ Total dataset: greater than 2.6M (approximately 2633869 images).
 
 The table detection model is located in the det folder:
 
--YOLO series: Training YOLO detection using ultralytics
--Rt detr: Training rt detr detection using ultralytics
+- YOLO series: Training YOLO detection using ultralytics
+- Rt detr: Training rt detr detection using ultralytics
 
 Note: You can directly predict the model or fine tune the private dataset as a pre trained model
 
