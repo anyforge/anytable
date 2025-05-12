@@ -19,7 +19,7 @@
 简体中文 | [English](./README_en.md)
 
 <div align="left">
-    <img src="./assets/sample1.jpg" width="30%" height="30%">
+    <img src="./assets/sample1.jpg">
 </div>
 
 
