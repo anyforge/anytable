@@ -81,7 +81,7 @@ self built evaluation set：`4K`
 | model | imgsz | epochs | metrics/precision |
 |---|---|---|---|
 |rt-detr-l|960|10|0.97|
-|yolo11s|960|10|-|
+|yolo11s|960|10|0.97|
 |yolo11m|960|10|0.964|
 |yolo12s|960|10|0.978|
 
