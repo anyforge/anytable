@@ -81,7 +81,7 @@ AnyTable是一个专注于从文档或者图片中表格解析的模型工具，
 | model | imgsz | epochs | metrics/precision |
 |---|---|---|---|
 |rt-detr-l|960|10|0.97|
-|yolo11s|960|10|-|
+|yolo11s|960|10|0.97|
 |yolo11m|960|10|0.964|
 |yolo12s|960|10|0.978|
 
