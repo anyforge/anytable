@@ -1,7 +1,7 @@
 # AnyTable
 
-<a href="https://huggingface.co/oriforge/anytable" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-blue"></a>
-<a href="https://www.modelscope.cn/models/oriforge/table" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/%E9%AD%94%E6%90%AD-ModelScope-blue"></a>
+<a href="https://huggingface.co/anyforge/anytable" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-blue"></a>
+<a href="https://www.modelscope.cn/models/anyforge/table" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/%E9%AD%94%E6%90%AD-ModelScope-blue"></a>
 <a href=""><img src="https://img.shields.io/badge/Python->=3.6-aff.svg"></a>
 <a href=""><img src="https://img.shields.io/badge/OS-Linux%2C%20Win%2C%20Mac-pink.svg"></a>
 <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/engine-cpu_gpu_onnxruntime-blue"></a>
@@ -30,9 +30,9 @@ AnyTable是一个专注于从文档或者图片中表格解析的模型工具，
 - anytable-rec：用于表格结构识别（未来开放）
 
 项目地址：
-- github地址：[AnyTable](https://github.com/oriforge/anytable)
-- Hugging Face: [AnyTable](https://huggingface.co/oriforge/anytable)
-- ModelScope: [AnyTable](https://www.modelscope.cn/models/oriforge/anytable)
+- github地址：[AnyTable](https://github.com/anyforge/anytable)
+- Hugging Face: [AnyTable](https://huggingface.co/anyforge/anytable)
+- ModelScope: [AnyTable](https://www.modelscope.cn/models/anyforge/anytable)
 
 ## 2. 缘起
 
@@ -134,4 +134,4 @@ for result in results:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=oriforge/anytable&type=Date)](https://www.star-history.com/#oriforge/anytable&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=anyforge/anytable&type=Date)](https://www.star-history.com/#anyforge/anytable&Date)
